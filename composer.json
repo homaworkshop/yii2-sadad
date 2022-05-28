@@ -1,12 +1,12 @@
 {
-    "name": "homaworkshop/yii2-sadad",
+    "name": "project-3126-2-homaworkshop/yii2-sadad",
     "description": "Online Sadad Payment Extension For Yii2",
     "type": "yii2-extension",
     "keywords": ["sadad","online","payment","iran","persian"],
     "license": "GPL-3.0+",
     "authors": [],
     "support": {
-        "source": "https://github.com/homaworkshop/yii2-sadad"
+        "source": "https://github.com/project-3126-2-homaworkshop/yii2-sadad"
     },
     "minimum-stability": "dev",
     "require": {

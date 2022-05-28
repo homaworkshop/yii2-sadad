@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require homaworkshop/yii2-sadad "dev-master"
+php composer.phar require project-3126-2-homaworkshop/yii2-sadad "dev-master"
 ```
 
 or add
 
 ```
-"homaworkshop/yii2-sadad": "dev-master"
+"project-3126-2-homaworkshop/yii2-sadad": "dev-master"
 ```
 
 to the require section of your `composer.json` file.
